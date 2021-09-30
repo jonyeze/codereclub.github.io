@@ -43,6 +43,10 @@ body {
   border-radius: 15px;
   box-shadow: 0 2px #999;
 }
+a {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
 .button:hover {
   background-color: #49cf00;
 }
